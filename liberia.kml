@@ -1,0 +1,20 @@
+<Placemark>
+  <name>Untitled Path</name>
+  <LineString>
+    <tessellate>1</tessellate>
+    <altitudeMode>relativeToGround</altitudeMode>
+    <coordinates>
+6.030449,-10.012994
+6.030329,-10.012769
+6.030369,-10.012955
+6.030761,-10.012360
+6.029278,-10.013673
+6.028971,-10.013947
+6.031432,-10.015542
+6.031481,-10.015612
+6.033098,-10.016586
+6.033889,-10.014263
+    </coordinates>
+  </LineString>
+</Placemark>
+
